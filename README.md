@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nickolasj926
-- 👀 I’m interested in front and back end web development.
+- 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning HTML, CSS, Java and JDeveloper.
 - 💞️ I’m looking to collaborate on Java projects.
 - 📫 How to reach me: email at nickolasj926@gmail.com
